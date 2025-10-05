@@ -1,0 +1,1 @@
+- [x] Add logout button at the bottom of the sidebar in src/pages/Dashboard.js
